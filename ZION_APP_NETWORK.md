@@ -1,12 +1,14 @@
-# Zion App Network — Interlinks for revenue-leak-detector
+# 🌐 Zion AI App Network — Interlinks for Revenue Leak Detector
 
-Revenue Leak Detector is part of the [Zion App Network](https://ziontechgroup.com/zion-app-network/) by [Zion Tech Group](https://ziontechgroup.com) — 700+ interlinked AI apps.
+Part of the **Zion AI App Network** — 820+ interlinked AI apps by [Zion Tech Group](https://ziontechgroup.com). **Batch 76: Sales & Revenue AI.**
 
 - Live app: https://ziontechgroup.com/revenue-leak-detector/
-- Hub repo: https://github.com/Zion-support/zion-app-network · Master interlink map: https://github.com/Zion-support/zion-app-network/blob/main/INTERLINKS.md
-- Batch 53 spotlight (Revenue Protection & Operations Signals): https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-26-BATCH53.md · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html
+- Network hub: https://ziontechgroup.com/zion-app-network/
+- Catalog: https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md · Index: https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md
+- Batch 76 spotlight: https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-10-04-BATCH76.md · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch76-oct04.html
+- Free AI Discovery (always online, results emailed instantly to you + commercial@ziontechgroup.com): https://ziontechgroup.com/discovery/
 
-## Related revenue protection apps
-[Subscription Dunning Hero](https://ziontechgroup.com/subscription-dunning-hero/) · [Pricing Signal Radar](https://ziontechgroup.com/pricing-signal-radar/) · [Zion AI Pricing Optimizer](https://ziontechgroup.com/zion-ai-pricing-optimizer/) · [Supplier Risk Radar](https://ziontechgroup.com/supplier-risk-radar/) · [Shipping Delay Alerter](https://ziontechgroup.com/shipping-delay-alerter/) · [Vendor Onboarding Copilot](https://ziontechgroup.com/vendor-onboarding-copilot/) · [Energy Demand Forecaster](https://ziontechgroup.com/energy-demand-forecaster/)
+## Batch 76 — Sales & Revenue AI siblings
+[Lead Score Copilot](https://ziontechgroup.com/lead-score-copilot/) · [Outbound Sequencer AI](https://ziontechgroup.com/outbound-sequencer-ai/) · [Sales Call Analyzer](https://ziontechgroup.com/sales-call-analyzer/) · [Sales Forecast AI](https://ziontechgroup.com/sales-forecast-ai/) · [Deal Coach AI](https://ziontechgroup.com/deal-coach-ai/) · [Proposal Builder AI](https://ziontechgroup.com/proposal-builder-ai/) · [Quote-to-Cash Accelerator](https://ziontechgroup.com/quote-to-cash-accelerator/) · [Win/Loss Analyzer AI](https://ziontechgroup.com/win-loss-analyzer-ai/) · [Upsell Signal Scout](https://ziontechgroup.com/upsell-signal-scout/) · [Renewal & Upsell Radar](https://ziontechgroup.com/renewal-upsell-radar/) · [Pricing Signal Radar](https://ziontechgroup.com/pricing-signal-radar/)
 
-© 2026 Zion Tech Group · https://ziontechgroup.com
+© 2026 Zion Tech Group
